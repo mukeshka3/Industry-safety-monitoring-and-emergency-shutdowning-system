@@ -57,7 +57,7 @@ peripheral driver modules to improve readability and maintainability.
 -   Proteus (optional, for circuit simulation)
 
 ## System Block Diagram
-file:///home/v25ce9a3/Downloads/linux%20notes/unnamed.png<img width="589" height="379" alt="image" src="https://github.com/user-attachments/assets/c9c25409-ee6f-43c8-89be-1d14e9807145" />
+<img width="589" height="379" alt="image" src="https://github.com/user-attachments/assets/c9c25409-ee6f-43c8-89be-1d14e9807145" />
 
 
 

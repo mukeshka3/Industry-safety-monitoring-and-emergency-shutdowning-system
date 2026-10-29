@@ -57,16 +57,9 @@ peripheral driver modules to improve readability and maintainability.
 -   Proteus (optional, for circuit simulation)
 
 ## System Block Diagram
+file:///home/v25ce9a3/Downloads/linux%20notes/unnamed.png<img width="589" height="379" alt="image" src="https://github.com/user-attachments/assets/c9c25409-ee6f-43c8-89be-1d14e9807145" />
 
-![System Block Diagram](system-block-diagram.png)
 
-**Block diagram notes** - The external interrupt switches trigger
-EINT1/EINT2; the VIC routes the interrupt to the interrupt service
-routine (ISR). - The LPC2129 controls the L293D input pins through GPIO0
-pins 21 and 22. - The LCD and UART0 provide local and serial status
-information. - The IR sensor is shown as an optional input because its
-exact connection and firmware handling should match the implemented
-circuit.
 
 ## Software Architecture
 
